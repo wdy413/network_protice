@@ -123,7 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test.c" />
+    <ClCompile Include="integer_division.c" />
+    <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="integer_division.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
