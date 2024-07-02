@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="integer_division.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="study_c.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="integer_division.h" />
